@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here is a live breakdown of my contributions, stre
 
 ##  Live GitHub Stats
 
-![My GitHub Stats](./stats-card.svg)
+![My GitHub Stats](https://raw.githubusercontent.com/Aadhithya-T/Aadhithya-T/main/stats-card.svg)
 
 ---
 
