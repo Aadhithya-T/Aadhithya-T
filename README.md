@@ -1,22 +1,23 @@
 <div align="center">
-  <h1>Aadhithya T</h1>
-  <p>Software Engineer | Full-Stack & Systems Development</p>
+  <h1>Aadhithya Thirumalai</h1>
+  <p>Computer Science & Engineering (AIML) Student | Web Development & Machine Learning</p>
 
   <p>
-    <a href="https://linkedin.com/in/aadhithya-t"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:aadhithyathirumalai2314@gmail.com"><img src="https://img.shields.io/badge/Email-aadhithyathirumalai2314%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/Aadhithya-T"><img src="https://img.shields.io/github/followers/Aadhithya-T?style=for-the-badge&color=004e92&labelColor=000428" alt="GitHub Followers" /></a>
   </p>
 </div>
 
 ---
 
-### About
+### About Me
 
-Software engineer focused on full-stack web applications, backend infrastructure, and developer tooling. Interested in building reliable systems, clean UI, and performant code.
+Computer Science & Engineering (AIML) undergraduate at VISTAS (2023–2027) based in Chennai, India. Experienced in full-stack web development, machine learning, and IoT hardware integration.
 
-- **Primary Stack**: Python, TypeScript, React, Node.js, C++
-- **Location**: India
-- **LinkedIn**: [linkedin.com/in/aadhithya-t](https://linkedin.com/in/aadhithya-t)
+- **Education**: B.Tech in CSE (AIML), VISTAS | CGPA: 8.42/10
+- **Experience**: Web Development Intern at CGS Green Sustainergy (Jul 2025 – Feb 2026)
+- **Leadership**: Secretary, College Coding Club (2025–2026)
+- **Competitive Programming**: 170+ LeetCode problems solved | HackerRank Java 5★ & Python 3★
 
 ---
 
@@ -28,41 +29,67 @@ Software engineer focused on full-stack web applications, backend infrastructure
 
 ---
 
-### Tech Stack
+### Experience & Leadership
 
-#### Languages
+- **Web Development Intern** — *CGS Green Sustainergy* (July 2025 – February 2026)
+  - Sole frontend developer in a 4-member agile team; owned end-to-end UI for workforce management dashboard used by 50+ employees.
+  - Built 5+ responsive React.js pages for attendance tracking, shift approvals/rejections, report generation, and real-time GPS verification.
+  - Integrated REST APIs for live location validation, shift scheduling, and data rendering with charts and filterable tables.
+- **Secretary** — *College Coding Club* (2025 – 2026)
+  - Organized technical workshops, guest sessions, alumni debugging competitions, and college developer community events.
+
+---
+
+### Projects
+
+- **PromptShield** — AI security layer that detects and blocks jailbreak attempts and unsafe LLM inputs. Fine-tuned DistilBERT on a custom dataset (92% accuracy, F1-score 0.85). Served via Flask REST API with a React frontend. *(Python, DistilBERT, HuggingFace, Flask, React)*
+- **Intelligent Waterlogging Monitoring System (IWMS)** — Real-time IoT flood detection system with ESP32, JSN-SR04T ultrasonic sensor, SIM808 GSM/GPS, and a React dashboard showing live water levels and GPS alert zones. *(Python, ESP32, React, Flask)*
+- **GramVantage** — Full-stack civic platform connecting rural citizens, government officials, and NGOs across 3 role-specific portals built during a 50-hour hackathon. *(React, Node.js, MongoDB, Python)* — **Runner-up, Design Spark Challenge (INR 60,000 Award)**
+
+---
+
+### Technical Skills
+
+#### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-#### Frameworks & Libraries
+#### Web Development
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Tools & Infrastructure
+#### Machine Learning & Data Science
 <p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+#### Databases, Tools & Hardware
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-### Connect
+### Contact
 
-- **LinkedIn**: [linkedin.com/in/aadhithya-t](https://linkedin.com/in/aadhithya-t)
+- **Email**: [aadhithyathirumalai2314@gmail.com](mailto:aadhithyathirumalai2314@gmail.com)
 - **GitHub**: [github.com/Aadhithya-T](https://github.com/Aadhithya-T)
+- **Location**: Chennai, India
