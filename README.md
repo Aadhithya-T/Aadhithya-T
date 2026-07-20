@@ -4,7 +4,6 @@
 
   <p>
     <a href="mailto:aadhithyathirumalai2314@gmail.com"><img src="https://img.shields.io/badge/Email-aadhithyathirumalai2314%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Aadhithya-T"><img src="https://img.shields.io/github/followers/Aadhithya-T?style=for-the-badge&color=004e92&labelColor=000428" alt="GitHub Followers" /></a>
   </p>
 </div>
 
