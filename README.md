@@ -29,17 +29,6 @@ Computer Science & Engineering (AIML) undergraduate at VISTAS (2023–2027) base
 
 ---
 
-### Experience & Leadership
-
-- **Web Development Intern** — *CGS Green Sustainergy* (July 2025 – February 2026)
-  - Sole frontend developer in a 4-member agile team; owned end-to-end UI for workforce management dashboard used by 50+ employees.
-  - Built 5+ responsive React.js pages for attendance tracking, shift approvals/rejections, report generation, and real-time GPS verification.
-  - Integrated REST APIs for live location validation, shift scheduling, and data rendering with charts and filterable tables.
-- **Secretary** — *College Coding Club* (2025 – 2026)
-  - Organized technical workshops, guest sessions, alumni debugging competitions, and college developer community events.
-
----
-
 ### Projects
 
 - **PromptShield** — AI security layer that detects and blocks jailbreak attempts and unsafe LLM inputs. Fine-tuned DistilBERT on a custom dataset (92% accuracy, F1-score 0.85). Served via Flask REST API with a React frontend. *(Python, DistilBERT, HuggingFace, Flask, React)*
