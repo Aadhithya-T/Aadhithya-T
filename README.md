@@ -1,14 +1,14 @@
-# Hi there, I'm Aadhithya 👋
+# Hi there, I'm Aadhithya 
 
 Welcome to my GitHub profile! Here is a live breakdown of my contributions, streaks, and top technologies.
 
-## 📊 Live GitHub Stats
+##  Live GitHub Stats
 
 ![My GitHub Stats](./stats-card.svg)
 
 ---
 
-## 🛠️ How to Setup on Your Profile
+##  How to Setup on Your Profile
 
 Follow these steps to wire this stats card into your GitHub profile repository (`Aadhithya-T/Aadhithya-T`):
 
